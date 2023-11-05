@@ -1,2 +1,6 @@
 Some text for header
-Changes from main -- new changes
+<<<<<<< HEAD
+Changes from main
+Changes from first branch
+
+Text from master: new changes
